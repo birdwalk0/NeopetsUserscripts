@@ -1,0 +1,3 @@
+# NeopetsUserscripts
+
+Hello, fellow Neopians!
