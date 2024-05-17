@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name            Neopets - Numeric Inputs
-// @version         0.0.1
+// @version         0.0.2
 // @description     Makes the numeric keyboard show up on mobile.
 // @author          birdwalk0
 // @namespace       birdwalk0_neo
 // @match           *://*.neopets.com/haggle.phtml*
 // @match           *://*.neopets.com/market.phtml?*type=your*
+// @match           *://*.neopets.com/auctions.phtml?type=bids&auction_id=*
+// @match           *://*.neopets.com/safetydeposit.phtml*
+// @match           *://*.neopets.com/closet.phtml*
 // @grant           GM_getValue
 // ==/UserScript==
 
@@ -15,8 +18,11 @@
 (function () {
     // Add selectors that we want to make numeric here:
     const selectorsForInputsThatShouldBeNumeric = [
-        `input[name="current_offer"]`, // the offer input on the haggle page
-        `input[name^="cost_"]`, // all inputs starting with 'cost_' on the shop stock page
+        `form[action="process_market.phtml"] input[name="current_offer"]`, // the offer input on the haggle page
+        `form[action="process_market.phtml"] input[name^="cost_"]`, // shop stock page
+        `form[action="auctions.phtml?type=placebid"] input[name="amount"]`, // on the auction page
+        `input.remove_safety_deposit[name^="back_to_inv"]`, // safety deposit box removal
+        `form[action="process_closet.phtml"] input`,
     ];
 
     const isAutomaticKEnabled = Boolean(GM_getValue("isAutomaticKEnabled"));
