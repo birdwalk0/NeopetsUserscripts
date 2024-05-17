@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Neopets - Better Inventory Dropdown
-// @namespace    birdwalk_neo
 // @version      0.0.1
 // @description  Organizes the options in the inventory item dropdown into groups
 // @author       birdwalk0
+// @namespace    birdwalk0_neo
 // @match        *://*.neopets.com/inventory.phtml*
 // @require      https://cdn.jsdelivr.net/gh/CoeJoder/waitForKeyElements.js@v1.2/waitForKeyElements.js
 // @grant        none

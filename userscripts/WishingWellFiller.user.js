@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Neopets - Wishing Well Filler
-// @namespace    http://tampermonkey.net/
 // @version      0.0.1
 // @description  Populates the Wishing Well inputs so you don't have to
-// @author       Birdwalk
+// @author       birdwalk0
+// @namespace    birdwalk0_neo
 // @match        *://*.neopets.com/wishing.phtml*
 // @grant        none
 // ==/UserScript==

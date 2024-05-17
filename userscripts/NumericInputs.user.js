@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name            Neopets - Numeric Inputs
-// @author          birdwalk0 on GitHub
 // @version         0.0.1
-// @namespace       birdwalk_neo
 // @description     Makes the numeric keyboard show up on mobile.
+// @author          birdwalk0
+// @namespace       birdwalk0_neo
 // @match           *://*.neopets.com/haggle.phtml*
 // @match           *://*.neopets.com/market.phtml?*type=your*
 // @grant           GM_getValue

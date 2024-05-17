@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Neopets - Better Pick-Your-Own
-// @namespace    birdwalk0_neo
 // @version      0.0.1
 // @description  Make the arrows bigger and easier to tap in Pick-Your-Own
-// @author       birdwalk0 (on GitHub)
+// @author       birdwalk0
+// @namespace    birdwalk0_neo
 // @match        *://*.neopets.com/medieval/pickyourown.phtml
 // @icon         https://www.neopets.com/favicon.ico
 // @grant        GM.addStyle

@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Neopets - Birdwalk0 Userscript Settings
-// @namespace    birdwalk0_neo
-// @version      2024-05-14
-// @description  try to take over the world!
+// @version      0.0.1
+// @description  Set variables for birdwalk0 scripts. Set this script to run first. Do NOT auto-update this. Your settings will be wiped.
 // @author       birdwalk0
-// @match        *://*/*
+// @namespace    birdwalk0_neo
+// @match        *://*.neopets.com/*
 // @grant        none
 // ==/UserScript==
 
