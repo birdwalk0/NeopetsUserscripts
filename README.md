@@ -5,6 +5,7 @@ Hello, fellow Neopians! This repository contains a number of userscripts intende
 ## Table of Contents
 1. [Getting Started](#getting-started)
 2. [Userscripts](#userscripts)
+    - [Inventory Dropdown Groups](#inventory-dropdown-groups)
     - [Neocola Machine Presets](#neocola-machine-presets)
     - [Better Pick Your Own](#better-pick-your-own)
 3. [Author Notes](#author-notes)
@@ -25,6 +26,19 @@ To install my userscripts on your browser:
 4. If you have *Tampermonkey* installed and enabled for your browser, it should automatically recognize the raw code as a userscript and offer to install or update it for you. Click `Install` or `Overwrite`. The latest version of the userscript should now be installed.
 
 ## Userscripts
+### Inventory Dropdown Groups
+
+[Source](userscripts/InventoryDropdownGroups.user.js) | [Raw (click here to install script)](https://github.com/birdwalk0/neopets-userscripts/raw/main/userscripts/InventoryDropdownGroups.user.js)
+
+**Compatibility**: Modern Neopets layout, English only
+
+Organizes options in the inventory item dropdown into groups. This should help prevent some accidental clicks.
+
+| Platform  | Without Userscript | With Userscript |
+| --------- | ------------------ | --------------- |
+| Firefox (Windows)  | ![Screenshot of inventory dropdown without the userscript - Firefox for Windows](assets/InventoryDropdownGroups/ffx_web1.png) | ![Screenshot of inventory dropdown with the userscript - Firefox for Windows](assets/InventoryDropdownGroups/ffx_web2.png) |
+| Firefox (Android)  | ![Screenshot of inventory dropdown without the userscript - Firefox for Android](assets/InventoryDropdownGroups/ffx_android1.png) | ![Screenshot of inventory dropdown with the userscript - Firefox for Android](assets/InventoryDropdownGroups/ffx_android2.png) |
+| Chrome (Windows) | ![Screenshot of inventory dropdown with the userscript - Chrome for Windows](assets/InventoryDropdownGroups/chrome_web1.png) | ![Screenshot of inventory dropdown with the userscript - Chrome for Windows](assets/InventoryDropdownGroups/chrome_web2.png) |
 
 ### Neocola Machine Presets
 
@@ -36,7 +50,7 @@ Selects the best combination of flavor and number of button presses for the [Neo
 
 | Platform  | Without Userscript | With Userscript |
 | ------------- | ------------- | ----------- |
-| Firefox (Windows and Android)  | ![Screenshot of Neocola Machine form without the userscript - Mozilla Firefox for Windows](assets/NeocolaMachinePresets/ffx_web1.png) | ![Screenshot of Neocola Machine form with the userscript - Mozilla Firefox for Windows](assets/NeocolaMachinePresets/ffx_web1.png) |
+| Firefox (Windows and Android)  | ![Screenshot of Neocola Machine form without the userscript - Mozilla Firefox for Windows](assets/NeocolaMachinePresets/ffx_web1.png) | ![Screenshot of Neocola Machine form with the userscript - Mozilla Firefox for Windows](assets/NeocolaMachinePresets/ffx_web2.png) |
 | Chrome (Windows) | ![Screenshot of Neocola Machine form with the userscript - Chrome for Windows](assets/NeocolaMachinePresets/chrome_web1.png) | ![Screenshot of Neocola Machine form with the userscript - Chrome for Windows](assets/NeocolaMachinePresets/chrome_web2.png) |
 
 ### Better Pick Your Own
