@@ -6,6 +6,7 @@ Hello, fellow Neopians! This repository contains a number of userscripts intende
 1. [Getting Started](#getting-started)
 2. [Userscripts](#userscripts)
     - [Neocola Machine Presets](#neocola-machine-presets)
+    - [Better Pick Your Own](#better-pick-your-own)
 3. [Author Notes](#author-notes)
 4. [Contact](#contact)
 
@@ -38,6 +39,17 @@ Selects the best combination of flavor and number of button presses for the Neoc
 | Firefox (Windows and Android)  | ![Screenshot of Neocola Machine form without the userscript - Mozilla Firefox for Windows](assets/NeocolaMachinePresets/ffx_web1.png) | ![Screenshot of Neocola Machine form with the userscript - Mozilla Firefox for Windows](assets/NeocolaMachinePresets/ffx_web1.png) |
 | Chrome (Windows) | ![Screenshot of Neocola Machine form with the userscript - Chrome for Windows](assets/NeocolaMachinePresets/chrome_web1.png) | ![Screenshot of Neocola Machine form with the userscript - Chrome for Windows](assets/NeocolaMachinePresets/chrome_web2.png) |
 
+### Better Pick Your Own
+
+[Source](userscripts/PickYourOwn.user.js) | [Raw (click here to install script)](userscripts/PickYourOwn.user.js)
+
+**Compatibility**: Neopets Classic, all languages
+
+Makes the arrows bigger and easier to tap or click in [Pick Your Own](https://www.neopets.com/medieval/pickyourown_index.phtml?).
+
+| Platform  | Without Userscript | With Userscript |
+| --------- | ------------------ | --------------- |
+| All       | ![Screenshot of Pick Your Own without the userscript - Firefox for Windows](assets/PickYourOwn/ffx_web1.png) | ![Screenshot of Pick Your Own with the userscript - Firefox for Windows](assets/PickYourOwn/ffx_web2.png) |
 ## Author Notes
 ### My promises to you
 I will never put anything malicious in my code.

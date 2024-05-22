@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        Neopets - Better Pick-Your-Own
-// @description Makes the arrows bigger and easier to tap in Pick-Your-Own
+// @name        Neopets - Better Pick Your Own
+// @description Makes the arrows bigger and easier to tap in Pick Your Own
 // @version     0.0.1
 // @author      birdwalk0
 // @namespace   birdwalk0_neo
@@ -11,14 +11,11 @@
 
 /* global $ */
 
-/* Compatibility: layout = Neopets Classic, language = English (+any?)
+/* Compatibility: layout = Neopets Classic, language = any
  * 
- * This userscript is designed to work with the Classic Neopets layout, because Pick-Your-Own
+ * This userscript is designed to work with the Classic Neopets layout, because Pick Your Own
  * has not yet been migrated to the new, more modern layout. If/when this change occurs, this
  * userscript likely will need to be updated.
- * 
- * This userscript should work for Neopets in any language, but testing has only been done for
- * the English version.
  */
 
 (function() {
