@@ -24,6 +24,19 @@ To install my userscripts on your browser:
 
 ## Userscripts
 
+### Neocola Machine Presets
+
+[Source](userscripts/NeocolaMachinePresets.user.js) | [Raw (click here to install script)](userscripts/NeocolaMachinePresets.user.js)
+
+**Compatibility**: Neopets Classic, all languages
+
+Selects the best combination of flavor and number of button presses for the Neocola Machine, per [research conducted by Jellyneo](https://www.jellyneo.net/?go=neocolamachine). (Flavor: Dehydrated H2O, Button Presses: 3)
+
+| Platform  | Without Userscript | With Userscript |
+| ------------- | ------------- | ----------- |
+| Firefox (Windows and Android)  | ![Screenshot of Neocola Machine form without the userscript - Mozilla Firefox for Windows](assets/EasyNeocolaMachine_ffx_web1.png) | ![Screenshot of Neocola Machine form with the userscript - Mozilla Firefox for Windows](assets/EasyNeocolaMachine_ffx_web2.png) |
+| Chrome (Windows) | ![Screenshot of Neocola Machine form with the userscript - Chrome for Windows](assets/EasyNeocolaMachine_chrome_web1.png) | ![Screenshot of Neocola Machine form with the userscript - Chrome for Windows](assets/EasyNeocolaMachine_chrome_web2.png) |
+
 ## Author Notes
 ### My promises to you
 I will never put anything malicious in my code.
