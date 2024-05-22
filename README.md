@@ -28,11 +28,11 @@ To install my userscripts on your browser:
 
 ### Neocola Machine Presets
 
-[Source](userscripts/NeocolaMachinePresets.user.js) | [Raw (click here to install script)](userscripts/NeocolaMachinePresets.user.js)
+[Source](userscripts/NeocolaMachinePresets.user.js) | [Raw (click here to install script)](https://github.com/birdwalk0/neopets-userscripts/raw/main/userscripts/NeocolaMachinePresets.user.js)
 
 **Compatibility**: Neopets Classic, all languages
 
-Selects the best combination of flavor and number of button presses for the Neocola Machine, per [research conducted by Jellyneo](https://www.jellyneo.net/?go=neocolamachine). (Flavor: Dehydrated H2O, Button Presses: 3)
+Selects the best combination of flavor and number of button presses for the [Neocola Machine](https://www.neopets.com/moon/neocola.phtml), per [research conducted by Jellyneo](https://www.jellyneo.net/?go=neocolamachine). (Flavor: Dehydrated H2O, Button Presses: 3)
 
 | Platform  | Without Userscript | With Userscript |
 | ------------- | ------------- | ----------- |
@@ -41,7 +41,7 @@ Selects the best combination of flavor and number of button presses for the Neoc
 
 ### Better Pick Your Own
 
-[Source](userscripts/PickYourOwn.user.js) | [Raw (click here to install script)](userscripts/PickYourOwn.user.js)
+[Source](userscripts/PickYourOwn.user.js) | [Raw (click here to install script)](https://github.com/birdwalk0/neopets-userscripts/raw/main/userscripts/PickYourOwn.user.js)
 
 **Compatibility**: Neopets Classic, all languages
 
